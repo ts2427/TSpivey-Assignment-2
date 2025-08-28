@@ -95,4 +95,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Timothy Spivey - ts2427@jagmail.southalabama.edu
-Project Link: https://github.com/yourusername/business-analytics-portfolio
+Project Link: https://github.com/ts2427/business-analytics-portfolio
