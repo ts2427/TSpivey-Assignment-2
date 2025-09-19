@@ -9,3 +9,8 @@ dependencies = [
     "numpy>=2.3.2",
     "pandas>=2.3.2",
 ]
+
+[tool.uv.workspace]
+members = [
+    "business-analytics-portfolio",
+]
